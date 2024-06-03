@@ -1,0 +1,28 @@
+.view-page {
+    display: flex;
+}
+
+.sidebar {
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar a {
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.sidebar button {
+    margin-top: auto;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.main-content {
+    flex-grow: 1;
+    padding: 20px;
+}

@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: aliceblue;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.form-container {
+  margin-top: 20px;
+}

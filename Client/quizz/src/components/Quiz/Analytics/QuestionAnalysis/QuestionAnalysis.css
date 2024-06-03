@@ -1,0 +1,40 @@
+.quiz-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.quiz-name {
+  margin: 0;
+}
+
+.quiz-meta {
+  text-align: right;
+}
+
+.question-block {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.stats-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.stat-box {
+  width: 30%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+}

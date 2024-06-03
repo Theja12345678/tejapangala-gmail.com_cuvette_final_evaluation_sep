@@ -1,0 +1,36 @@
+.Analytics {
+    padding: 20px;
+  }
+  h1{
+    color: #0989f2;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  th, td {
+    padding: 12px;
+    color: black;
+    border: 1px  none;
+    border-radius: 1px;
+    text-align: left;
+    font-size:12px;
+  }
+  
+  th {
+    background-color: #0989f2;
+  }
+  
+  button {
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  .even-row {
+    background-color: #ffffff;
+  }
+  
+  .odd-row {
+    background-color: #add8e6; /* Light Blue color */
+  }

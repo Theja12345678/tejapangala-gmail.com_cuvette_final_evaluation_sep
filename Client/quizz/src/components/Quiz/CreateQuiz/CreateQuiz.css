@@ -1,0 +1,49 @@
+/* src/App.css or index.css */
+.options-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .option-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  .option-row input {
+    margin-right: 10px;
+    flex: 1;
+  }
+  
+  .option-row button {
+    height: 36px;
+  }
+  
+  .timer-section {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+  }
+  
+  .timer-section label {
+    margin-right: 10px;
+  }
+.modal{
+  padding: 20px;
+  justify-content: center;
+ color: black;
+ line-break: 10px;
+ line-height: 12vh;
+}  
+.continue{
+  background-color: rgb(13, 92, 239);
+  margin-top: 30vh;
+}
+.cancel{
+  background-color: rgb(170, 39, 39);
+}
+.back{
+  background-color: rgb(13, 92, 239);
+}
